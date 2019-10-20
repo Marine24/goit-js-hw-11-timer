@@ -1,0 +1,21 @@
+.timer {
+  display: flex;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 150px;
+}
+
+.value {
+  font-size: 76px;
+  background-color: darkgrey;
+  color: bisque;
+  width: 80px;
+  border-radius: 5px;
+}
+
+.label {
+  font-size: 32px;
+}
